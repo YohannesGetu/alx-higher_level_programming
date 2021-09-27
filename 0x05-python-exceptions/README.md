@@ -10,3 +10,4 @@ BB# 0x05. Python - Exceptions
 - 100-safe_print_integer_err.py - that prints an integer.
 - 101-safe_function.py - that executes a function safely.
 - 102-magic_calculation.py - 
+- 103-python.c - that print some basic info about Python lists, Python bytes an Python float objects.
