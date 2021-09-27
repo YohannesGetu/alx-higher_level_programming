@@ -7,3 +7,4 @@ B# 0x05. Python - Exceptions
 - 4-list_division.py - that divides element by element 2 lists.
 - 5-raise_exception.py - that raises a type exception.
 - 6-raise_exception_msg.py - that raises a name exception with a message.
+- 100-safe_print_integer_err.py - that prints an integer.
