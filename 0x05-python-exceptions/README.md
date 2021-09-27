@@ -8,3 +8,4 @@ B# 0x05. Python - Exceptions
 - 5-raise_exception.py - that raises a type exception.
 - 6-raise_exception_msg.py - that raises a name exception with a message.
 - 100-safe_print_integer_err.py - that prints an integer.
+- 101-safe_function.py - that executes a function safely.
