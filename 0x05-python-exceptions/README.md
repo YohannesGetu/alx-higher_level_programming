@@ -1,4 +1,4 @@
-B# 0x05. Python - Exceptions
+BB# 0x05. Python - Exceptions
 
 - 0-safe_print_list.py - that prints x elements of a list.
 - 1-safe_print_integer.py - that prints an integer with "{:d}".format().
@@ -9,3 +9,4 @@ B# 0x05. Python - Exceptions
 - 6-raise_exception_msg.py - that raises a name exception with a message.
 - 100-safe_print_integer_err.py - that prints an integer.
 - 101-safe_function.py - that executes a function safely.
+- 102-magic_calculation.py - 
