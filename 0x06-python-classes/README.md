@@ -2,3 +2,4 @@
 
 - 0-square.py - that defines a square.
 - 1-square.py - that defines a square by: (based on 0-square.py).
+- 2-square.py - that defines a square by: (based on 1-square.py).
