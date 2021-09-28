@@ -8,3 +8,4 @@ B# 0x06. Python - Classes and Objects
 - 5-square.py - that defines a square by: (based on 4-square.py).
 - 6-square.py - that defines a square by: (based on 5-square.py).
 - 100-singly_linked_list.py - that defines a node of a singly linked list.
+- 101-square.py - that defines a square by: (based on 6-square.py).
