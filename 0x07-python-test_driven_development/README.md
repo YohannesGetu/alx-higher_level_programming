@@ -4,3 +4,4 @@
 - 2-matrix_divided.py, tests/2-matrix_divided.txt - that divides all elements of a matrix.
 - 3-say_my_name.py, tests/3-say_my_name.txt - that prints My name is <first name> <last name>.
 - 4-print_square.py, tests/4-print_square.txt - that prints a square with the character #.
+- 5-text_indentation.py, tests/5-text_indentation.txt - that prints a text with 2 new lines after each of these characters: ., ? and :.
