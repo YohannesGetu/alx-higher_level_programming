@@ -7,3 +7,4 @@
 - 5-text_indentation.py, tests/5-text_indentation.txt - that prints a text with 2 new lines after each of these characters: ., ? and :.
 - tests/6-max_integer_test.py - unittests for the function def max_integer(list=[]):.
 - 100-matrix_mul.py, tests/100-matrix_mul.txt - that multiplies 2 matrices.
+- 101-lazy_matrix_mul.py, tests/101-lazy_matrix_mul.txt - that multiplies 2 matrices by using the module NumPy.
